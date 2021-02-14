@@ -6,7 +6,7 @@ Wildfire records were scraped from this BC government webpage: https://www2.gov.
 
 Exploratory analysis and feature engineering was performed. This plot of wildfires was produced to examine geographical trends in wildfire size:
 
-
+![](https://github.com/jvanzalk/wildfire-deep-learning/blob/main/Images/hotspots.png)
 
 After cleaning up the data, two models were compared: a simple multi linear regression and a regression with Tensorflow. While the Tensorflow model performance was the better, both models lacked any real predictive ability.
 
