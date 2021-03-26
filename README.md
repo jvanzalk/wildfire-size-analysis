@@ -12,6 +12,6 @@ After cleaning up the data, two models were compared: a simple multi linear regr
 
 The features (month, year, latitude, longitude) explained less than 10% of variance in fire sizes. In this case, additional features are needed to improve the results. 
 
-Recommended actions: 
-- Replace month with weather data
-- Humans cause the majority of wildfires so look at travel data (e.g., Airbnb) or population.
+Next steps:
+- Add weather data
+- Humans cause the majority of wildfires so look at distance of fires to populated areas or major roads
