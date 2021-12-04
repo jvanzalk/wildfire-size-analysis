@@ -10,7 +10,7 @@ Exploratory analysis and feature engineering was performed on the scraped data. 
 
 In addition to the features aquired from the scraped data (season, year, latitude, longitude), more features were added using spatial operations from geopandas.
 
-Given that Humans cause the majority of wildfires, the minimum distance of fires to major roads was calculated to determine proximity of fires to human populations. 
+Given that humans cause the majority of wildfires, the minimum distance of fires to major roads was calculated to determine proximity of fires to human populations. 
 
 Granular weather data was not available so a spatial join was performed to determine what biogeoclimatic zone each fire was located in. These zones are classifications based on types of vegitation, soil, and other factors.
 
